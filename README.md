@@ -1,5 +1,4 @@
 <h1 align="center">👋🏾 Hi, I'm FJ.</h1>
-<h2> Hire me!</h2>
 <h3 align="center">A Front-End developer 👨🏾‍💻 based in Mississauga, ON.</h3>
 
 - 🌱 I’m currently learning **React**
